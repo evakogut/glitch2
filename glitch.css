@@ -9,7 +9,7 @@
 .img,
 .glitch {
   display: block;
-  background-image: url('img.png');
+  background-image: url('img/img1.png');
   background-repeat: no-repeat;
   background-size: cover;
   /* width: 564px;
